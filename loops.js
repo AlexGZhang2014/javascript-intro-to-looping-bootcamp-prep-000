@@ -11,7 +11,7 @@ function forLoop(array) {
 }
 
 function whileLoop(number) {
-  while (number >= 0) {
+  while (number >= 0 && number !== undefined) {
     console.log(number);
     number--;
   }
