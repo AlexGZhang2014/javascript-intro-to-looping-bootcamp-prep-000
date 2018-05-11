@@ -16,3 +16,7 @@ function whileLoop(number) {
     number--;
   }
 }
+
+function doWhileLoop(array) {
+  
+}
